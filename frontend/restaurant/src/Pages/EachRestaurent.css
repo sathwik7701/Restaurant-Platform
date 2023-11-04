@@ -1,0 +1,28 @@
+.resta-list {
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+    width: 90%;
+    max-width: 50rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+
+.each-restaurant {
+    padding: 20px;
+    margin: 10px;
+    height: auto;
+    width: 200px;
+    background-color: rgb(193, 190, 190);
+    border: 1px solid black;
+    box-shadow: 1px 1px 20px 0px rgb(193, 190, 190);
+    border-radius: 5px;
+}
+
+.buttons-v {
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;
+}
